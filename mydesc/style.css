@@ -36,3 +36,7 @@ h1 {
     border-radius: 30px;
     padding: 15px;
 }
+a:active {
+    background-color:blue;
+    border:01px solid green;
+}
