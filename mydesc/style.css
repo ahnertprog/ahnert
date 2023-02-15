@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media (max-width:600px) {
+    iframe {
+        width: 420px;
+        height: 380px;
+    }
+    
+}
+body {
+    text-align: center;
+    background-color: black;
+    background-image: url(fundo.gif);
+    background-size:cover;
+}
+h1 {
+    color: red;
+    text-shadow: 01px 01px 01px white;
+}
+.youtube a {
+    text-decoration: none;
+    color: black;
+    background-color: red;
+    border-radius: 20px;
+    padding: 15px;
+}
+.spot {
+    border-top: 03px solid #555;
+}
+.spotify a {
+    color: white;
+    font-style:bold;
+    text-decoration: none;
+    background-color: rgb(60, 167, 60);
+    border-radius: 30px;
+    padding: 15px;
+}
