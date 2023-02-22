@@ -9,8 +9,8 @@ body {
     background-size:cover;
 }
 h1 {
-    color: red;
-    text-shadow: 01px 01px 01px white;
+    color: blue;
+    text-shadow: 01px 01px 01px black;
 }
 .youtube a {
     text-decoration: none;
