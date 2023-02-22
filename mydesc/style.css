@@ -3,7 +3,7 @@
 }
 @media (max-width:600px) {
     iframe {
-        width: 420px;
+        width: auto;
         height: 380px;
     }
     
@@ -37,6 +37,6 @@ h1 {
     padding: 15px;
 }
 a:active {
-    background-color:blue;
-    border:03px solid green;
+    background-color: blue;
+    border: 03px solid green;
 }
