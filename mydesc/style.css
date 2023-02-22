@@ -40,3 +40,7 @@ a:active {
     background-color: blue;
     border: 03px solid green;
 }
+iframe {
+    width: 780px;
+    height: 380px;
+}
